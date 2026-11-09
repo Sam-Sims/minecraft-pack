@@ -9,6 +9,10 @@ file = "config/create-server.toml"
 hash = "144089367c99b062ce7b89d444955f0a3a92621f83f5afcc921a628c98404ef2"
 
 [[files]]
+file = "config/ftbbackups3-server.snbt"
+hash = "99c22fda2a05c512ace6e09e7d75119950db26bcdb1689411d0608599b10c5a2"
+
+[[files]]
 file = "config/ftbchunks-world.snbt"
 hash = "c7b2295a08329a303db99c5fbceda057ca42589a5ecf97de26d9959c0c49caba"
 
@@ -133,6 +137,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/ftb-backups-3.pw.toml"
+hash = "28ebc46b4f08d2b11a6091ca404352024344a1e2e9b9b9ce7ecfa1d367e4dda1"
 metafile = true
 
 [[files]]

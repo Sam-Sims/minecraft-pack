@@ -1,0 +1,4 @@
+{
+	backup_timer: 60
+	backups_to_keep: 5
+}
