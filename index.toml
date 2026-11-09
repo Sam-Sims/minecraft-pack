@@ -6,7 +6,7 @@ hash = "001af14b87e8ac35e7524cc243a43ad01596d1b12b3065add54701000be27527"
 
 [[files]]
 file = "config/create-server.toml"
-hash = "144089367c99b062ce7b89d444955f0a3a92621f83f5afcc921a628c98404ef2"
+hash = "dc35b0fa66f68a95bec09f5caefb761c0a64a6c715b283cdd6968d7dd3dd509a"
 
 [[files]]
 file = "config/ftbbackups3-server.snbt"
