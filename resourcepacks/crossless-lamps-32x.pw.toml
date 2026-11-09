@@ -1,0 +1,13 @@
+name = "Crossless Lamps 32x"
+filename = "CrosslessLamps-32x-1.19.3.zip"
+side = "client"
+
+[download]
+url = "https://github.com/Wooferscoots/Crossless-Redstone-Lamps32x-/releases/download/1.19.3/CrosslessLamps-32x-1.19.3.zip"
+hash-format = "sha256"
+hash = "0267d2725a73cc6b0cac1a90afeb3a07193ca7f16483af94c9c093b59b960018"
+
+[option]
+optional = true
+default = false
+description = "Faithful: redstone lamps without the cross. Enable with Faithful 32x."

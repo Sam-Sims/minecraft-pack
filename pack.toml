@@ -1,0 +1,13 @@
+name = "bds-modpack"
+author = "Sam"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "16f081737786c3a4797cc9ad02b76a91c78960ebe74678b837c9f9fd4c1748c6"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.265"

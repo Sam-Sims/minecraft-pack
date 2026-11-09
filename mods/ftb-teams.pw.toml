@@ -1,0 +1,8 @@
+name = "FTB Teams"
+filename = "ftb-teams-neoforge-2101.1.12.jar"
+side = "both"
+
+[download]
+url = "https://maven.ftb.dev/releases/dev/ftb/mods/ftb-teams-neoforge/2101.1.12/ftb-teams-neoforge-2101.1.12.jar"
+hash-format = "sha256"
+hash = "b3f33436070b7ae4a706280561f1d2f1d1eb1a089cb13ec9851e99646165aed2"

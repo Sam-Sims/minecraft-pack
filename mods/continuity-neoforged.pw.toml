@@ -1,0 +1,18 @@
+name = "Continuity: NeoForged"
+filename = "ContinuityNeoForge-3.0.10+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AOAMhINn/versions/LUAmtmoW/ContinuityNeoForge-3.0.10%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "e07d32eb8aa4e60c0274eb9135ba4e2cb008dbdb67528b1475a6d2ad18c669274ce80c0844b79e6f37b486e90f76bd3a18978c0a12e0e1d9c657176bd9f9c281"
+
+[update]
+[update.modrinth]
+mod-id = "AOAMhINn"
+version = "LUAmtmoW"
+
+[option]
+optional = true
+default = true
+description = "Connected textures (used by Faithful and Crossless Lamps)."
