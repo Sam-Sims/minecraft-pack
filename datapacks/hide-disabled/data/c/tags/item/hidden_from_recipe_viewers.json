@@ -1,0 +1,1377 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "quark:acacia_chest",
+      "required": false
+    },
+    {
+      "id": "quark:acacia_hedge",
+      "required": false
+    },
+    {
+      "id": "quark:acacia_ladder",
+      "required": false
+    },
+    {
+      "id": "quark:acacia_leaf_carpet",
+      "required": false
+    },
+    {
+      "id": "quark:acacia_post",
+      "required": false
+    },
+    {
+      "id": "quark:acacia_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:ancient_chest",
+      "required": false
+    },
+    {
+      "id": "quark:ancient_hedge",
+      "required": false
+    },
+    {
+      "id": "quark:ancient_ladder",
+      "required": false
+    },
+    {
+      "id": "quark:ancient_leaf_carpet",
+      "required": false
+    },
+    {
+      "id": "quark:ancient_planks_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:ancient_post",
+      "required": false
+    },
+    {
+      "id": "quark:andesite_bricks_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:andesite_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:azalea_chest",
+      "required": false
+    },
+    {
+      "id": "quark:azalea_hedge",
+      "required": false
+    },
+    {
+      "id": "quark:azalea_ladder",
+      "required": false
+    },
+    {
+      "id": "quark:azalea_leaf_carpet",
+      "required": false
+    },
+    {
+      "id": "quark:azalea_planks_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:azalea_post",
+      "required": false
+    },
+    {
+      "id": "quark:bamboo_chest",
+      "required": false
+    },
+    {
+      "id": "quark:bamboo_ladder",
+      "required": false
+    },
+    {
+      "id": "quark:bamboo_mosaic_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:bamboo_post",
+      "required": false
+    },
+    {
+      "id": "quark:bamboo_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:birch_chest",
+      "required": false
+    },
+    {
+      "id": "quark:birch_hedge",
+      "required": false
+    },
+    {
+      "id": "quark:birch_ladder",
+      "required": false
+    },
+    {
+      "id": "quark:birch_leaf_carpet",
+      "required": false
+    },
+    {
+      "id": "quark:birch_post",
+      "required": false
+    },
+    {
+      "id": "quark:birch_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:black_crystal_lamp",
+      "required": false
+    },
+    {
+      "id": "quark:black_framed_glass",
+      "required": false
+    },
+    {
+      "id": "quark:black_framed_glass_pane",
+      "required": false
+    },
+    {
+      "id": "quark:black_shingles_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:black_stool",
+      "required": false
+    },
+    {
+      "id": "quark:blackstone_bricks_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:blackstone_furnace",
+      "required": false
+    },
+    {
+      "id": "quark:blackstone_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:blossom_chest",
+      "required": false
+    },
+    {
+      "id": "quark:blossom_ladder",
+      "required": false
+    },
+    {
+      "id": "quark:blossom_planks_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:blossom_post",
+      "required": false
+    },
+    {
+      "id": "quark:blue_blossom_hedge",
+      "required": false
+    },
+    {
+      "id": "quark:blue_blossom_leaf_carpet",
+      "required": false
+    },
+    {
+      "id": "quark:blue_crystal_lamp",
+      "required": false
+    },
+    {
+      "id": "quark:blue_framed_glass",
+      "required": false
+    },
+    {
+      "id": "quark:blue_framed_glass_pane",
+      "required": false
+    },
+    {
+      "id": "quark:blue_nether_bricks_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:blue_shingles_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:blue_stool",
+      "required": false
+    },
+    {
+      "id": "quark:brick_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:brown_framed_glass",
+      "required": false
+    },
+    {
+      "id": "quark:brown_framed_glass_pane",
+      "required": false
+    },
+    {
+      "id": "quark:brown_shingles_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:brown_stool",
+      "required": false
+    },
+    {
+      "id": "quark:calcite_bricks_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:calcite_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:cherry_chest",
+      "required": false
+    },
+    {
+      "id": "quark:cherry_hedge",
+      "required": false
+    },
+    {
+      "id": "quark:cherry_ladder",
+      "required": false
+    },
+    {
+      "id": "quark:cherry_leaf_carpet",
+      "required": false
+    },
+    {
+      "id": "quark:cherry_post",
+      "required": false
+    },
+    {
+      "id": "quark:cherry_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:cobbled_deepslate_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:cobblestone_bricks_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:cobblestone_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:crimson_chest",
+      "required": false
+    },
+    {
+      "id": "quark:crimson_ladder",
+      "required": false
+    },
+    {
+      "id": "quark:crimson_post",
+      "required": false
+    },
+    {
+      "id": "quark:crimson_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:cut_copper_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:cut_red_sandstone_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:cut_sandstone_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:cut_soul_sandstone_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:cyan_framed_glass",
+      "required": false
+    },
+    {
+      "id": "quark:cyan_framed_glass_pane",
+      "required": false
+    },
+    {
+      "id": "quark:cyan_shingles_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:cyan_stool",
+      "required": false
+    },
+    {
+      "id": "quark:dark_oak_chest",
+      "required": false
+    },
+    {
+      "id": "quark:dark_oak_hedge",
+      "required": false
+    },
+    {
+      "id": "quark:dark_oak_ladder",
+      "required": false
+    },
+    {
+      "id": "quark:dark_oak_leaf_carpet",
+      "required": false
+    },
+    {
+      "id": "quark:dark_oak_post",
+      "required": false
+    },
+    {
+      "id": "quark:dark_oak_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:dark_prismarine_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:deepslate_brick_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:deepslate_furnace",
+      "required": false
+    },
+    {
+      "id": "quark:deepslate_tile_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:diorite_bricks_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:diorite_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:dirt_bricks_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:dirty_glass",
+      "required": false
+    },
+    {
+      "id": "quark:dirty_glass_pane",
+      "required": false
+    },
+    {
+      "id": "quark:dripstone_block_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:dripstone_bricks_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:duskbound_block",
+      "required": false
+    },
+    {
+      "id": "quark:duskbound_block_slab",
+      "required": false
+    },
+    {
+      "id": "quark:duskbound_block_stairs",
+      "required": false
+    },
+    {
+      "id": "quark:duskbound_block_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:duskbound_lantern",
+      "required": false
+    },
+    {
+      "id": "quark:end_stone_brick_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:exposed_cut_copper_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:flamerang",
+      "required": false
+    },
+    {
+      "id": "quark:flowering_azalea_hedge",
+      "required": false
+    },
+    {
+      "id": "quark:flowering_azalea_leaf_carpet",
+      "required": false
+    },
+    {
+      "id": "quark:framed_glass",
+      "required": false
+    },
+    {
+      "id": "quark:framed_glass_pane",
+      "required": false
+    },
+    {
+      "id": "quark:gold_bars",
+      "required": false
+    },
+    {
+      "id": "quark:granite_bricks_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:granite_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:grate",
+      "required": false
+    },
+    {
+      "id": "quark:gray_framed_glass",
+      "required": false
+    },
+    {
+      "id": "quark:gray_framed_glass_pane",
+      "required": false
+    },
+    {
+      "id": "quark:gray_shingles_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:gray_stool",
+      "required": false
+    },
+    {
+      "id": "quark:green_crystal_lamp",
+      "required": false
+    },
+    {
+      "id": "quark:green_framed_glass",
+      "required": false
+    },
+    {
+      "id": "quark:green_framed_glass_pane",
+      "required": false
+    },
+    {
+      "id": "quark:green_shingles_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:green_stool",
+      "required": false
+    },
+    {
+      "id": "quark:hammer",
+      "required": false
+    },
+    {
+      "id": "quark:hollow_acacia_log",
+      "required": false
+    },
+    {
+      "id": "quark:hollow_ancient_log",
+      "required": false
+    },
+    {
+      "id": "quark:hollow_azalea_log",
+      "required": false
+    },
+    {
+      "id": "quark:hollow_birch_log",
+      "required": false
+    },
+    {
+      "id": "quark:hollow_blossom_log",
+      "required": false
+    },
+    {
+      "id": "quark:hollow_cherry_log",
+      "required": false
+    },
+    {
+      "id": "quark:hollow_crimson_stem",
+      "required": false
+    },
+    {
+      "id": "quark:hollow_dark_oak_log",
+      "required": false
+    },
+    {
+      "id": "quark:hollow_jungle_log",
+      "required": false
+    },
+    {
+      "id": "quark:hollow_mangrove_log",
+      "required": false
+    },
+    {
+      "id": "quark:hollow_oak_log",
+      "required": false
+    },
+    {
+      "id": "quark:hollow_spruce_log",
+      "required": false
+    },
+    {
+      "id": "quark:hollow_warped_stem",
+      "required": false
+    },
+    {
+      "id": "quark:indigo_crystal_lamp",
+      "required": false
+    },
+    {
+      "id": "quark:iron_plate_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:jasper_bricks_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:jasper_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:jungle_chest",
+      "required": false
+    },
+    {
+      "id": "quark:jungle_hedge",
+      "required": false
+    },
+    {
+      "id": "quark:jungle_ladder",
+      "required": false
+    },
+    {
+      "id": "quark:jungle_leaf_carpet",
+      "required": false
+    },
+    {
+      "id": "quark:jungle_post",
+      "required": false
+    },
+    {
+      "id": "quark:jungle_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:lavender_blossom_hedge",
+      "required": false
+    },
+    {
+      "id": "quark:lavender_blossom_leaf_carpet",
+      "required": false
+    },
+    {
+      "id": "quark:light_blue_framed_glass",
+      "required": false
+    },
+    {
+      "id": "quark:light_blue_framed_glass_pane",
+      "required": false
+    },
+    {
+      "id": "quark:light_blue_shingles_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:light_blue_stool",
+      "required": false
+    },
+    {
+      "id": "quark:light_gray_framed_glass",
+      "required": false
+    },
+    {
+      "id": "quark:light_gray_framed_glass_pane",
+      "required": false
+    },
+    {
+      "id": "quark:light_gray_shingles_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:light_gray_stool",
+      "required": false
+    },
+    {
+      "id": "quark:lime_framed_glass",
+      "required": false
+    },
+    {
+      "id": "quark:lime_framed_glass_pane",
+      "required": false
+    },
+    {
+      "id": "quark:lime_shingles_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:lime_stool",
+      "required": false
+    },
+    {
+      "id": "quark:limestone_bricks_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:limestone_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:magenta_framed_glass",
+      "required": false
+    },
+    {
+      "id": "quark:magenta_framed_glass_pane",
+      "required": false
+    },
+    {
+      "id": "quark:magenta_shingles_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:magenta_stool",
+      "required": false
+    },
+    {
+      "id": "quark:mangrove_chest",
+      "required": false
+    },
+    {
+      "id": "quark:mangrove_hedge",
+      "required": false
+    },
+    {
+      "id": "quark:mangrove_ladder",
+      "required": false
+    },
+    {
+      "id": "quark:mangrove_leaf_carpet",
+      "required": false
+    },
+    {
+      "id": "quark:mangrove_post",
+      "required": false
+    },
+    {
+      "id": "quark:mangrove_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:midori_block_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:mossy_cobblestone_bricks_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:mossy_cobblestone_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:mossy_stone_brick_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:mud_brick_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:myalite_bricks_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:myalite_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:nether_brick_chest",
+      "required": false
+    },
+    {
+      "id": "quark:nether_brick_fence_gate",
+      "required": false
+    },
+    {
+      "id": "quark:nether_brick_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:netherrack_bricks_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:oak_chest",
+      "required": false
+    },
+    {
+      "id": "quark:oak_hedge",
+      "required": false
+    },
+    {
+      "id": "quark:oak_leaf_carpet",
+      "required": false
+    },
+    {
+      "id": "quark:oak_post",
+      "required": false
+    },
+    {
+      "id": "quark:oak_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:orange_blossom_hedge",
+      "required": false
+    },
+    {
+      "id": "quark:orange_blossom_leaf_carpet",
+      "required": false
+    },
+    {
+      "id": "quark:orange_crystal_lamp",
+      "required": false
+    },
+    {
+      "id": "quark:orange_framed_glass",
+      "required": false
+    },
+    {
+      "id": "quark:orange_framed_glass_pane",
+      "required": false
+    },
+    {
+      "id": "quark:orange_shingles_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:orange_stool",
+      "required": false
+    },
+    {
+      "id": "quark:oxidized_cut_copper_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:permafrost_bricks_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:permafrost_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:pickarang",
+      "required": false
+    },
+    {
+      "id": "quark:pink_framed_glass",
+      "required": false
+    },
+    {
+      "id": "quark:pink_framed_glass_pane",
+      "required": false
+    },
+    {
+      "id": "quark:pink_shingles_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:pink_stool",
+      "required": false
+    },
+    {
+      "id": "quark:polished_andesite_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:polished_blackstone_brick_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:polished_blackstone_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:polished_calcite_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:polished_deepslate_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:polished_diorite_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:polished_dripstone_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:polished_granite_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:polished_jasper_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:polished_limestone_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:polished_myalite_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:polished_shale_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:polished_tuff_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:prismarine_brick_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:prismarine_chest",
+      "required": false
+    },
+    {
+      "id": "quark:prismarine_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:purple_framed_glass",
+      "required": false
+    },
+    {
+      "id": "quark:purple_framed_glass_pane",
+      "required": false
+    },
+    {
+      "id": "quark:purple_shingles_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:purple_stool",
+      "required": false
+    },
+    {
+      "id": "quark:purpur_chest",
+      "required": false
+    },
+    {
+      "id": "quark:purpur_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:quartz_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:raw_copper_bricks_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:raw_gold_bricks_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:raw_iron_bricks_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:red_blossom_hedge",
+      "required": false
+    },
+    {
+      "id": "quark:red_blossom_leaf_carpet",
+      "required": false
+    },
+    {
+      "id": "quark:red_crystal_lamp",
+      "required": false
+    },
+    {
+      "id": "quark:red_framed_glass",
+      "required": false
+    },
+    {
+      "id": "quark:red_framed_glass_pane",
+      "required": false
+    },
+    {
+      "id": "quark:red_nether_brick_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:red_sandstone_bricks_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:red_sandstone_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:red_shingles_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:red_stool",
+      "required": false
+    },
+    {
+      "id": "quark:rope",
+      "required": false
+    },
+    {
+      "id": "quark:rusty_iron_plate_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:sandstone_bricks_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:sandstone_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:seed_pouch",
+      "required": false
+    },
+    {
+      "id": "quark:shale_bricks_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:shale_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:shingles_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:smithing_template_rune",
+      "required": false
+    },
+    {
+      "id": "quark:smooth_quartz_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:smooth_red_sandstone_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:smooth_sandstone_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:smooth_soul_sandstone_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:smooth_stone_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:soul_sandstone_bricks_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:soul_sandstone_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:spruce_chest",
+      "required": false
+    },
+    {
+      "id": "quark:spruce_hedge",
+      "required": false
+    },
+    {
+      "id": "quark:spruce_ladder",
+      "required": false
+    },
+    {
+      "id": "quark:spruce_leaf_carpet",
+      "required": false
+    },
+    {
+      "id": "quark:spruce_post",
+      "required": false
+    },
+    {
+      "id": "quark:spruce_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:stone_brick_lamp",
+      "required": false
+    },
+    {
+      "id": "quark:stone_brick_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:stone_lamp",
+      "required": false
+    },
+    {
+      "id": "quark:stone_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:stripped_acacia_post",
+      "required": false
+    },
+    {
+      "id": "quark:stripped_ancient_post",
+      "required": false
+    },
+    {
+      "id": "quark:stripped_azalea_post",
+      "required": false
+    },
+    {
+      "id": "quark:stripped_bamboo_post",
+      "required": false
+    },
+    {
+      "id": "quark:stripped_birch_post",
+      "required": false
+    },
+    {
+      "id": "quark:stripped_blossom_post",
+      "required": false
+    },
+    {
+      "id": "quark:stripped_cherry_post",
+      "required": false
+    },
+    {
+      "id": "quark:stripped_crimson_post",
+      "required": false
+    },
+    {
+      "id": "quark:stripped_dark_oak_post",
+      "required": false
+    },
+    {
+      "id": "quark:stripped_jungle_post",
+      "required": false
+    },
+    {
+      "id": "quark:stripped_mangrove_post",
+      "required": false
+    },
+    {
+      "id": "quark:stripped_oak_post",
+      "required": false
+    },
+    {
+      "id": "quark:stripped_spruce_post",
+      "required": false
+    },
+    {
+      "id": "quark:stripped_warped_post",
+      "required": false
+    },
+    {
+      "id": "quark:sturdy_stone",
+      "required": false
+    },
+    {
+      "id": "quark:thatch",
+      "required": false
+    },
+    {
+      "id": "quark:thatch_slab",
+      "required": false
+    },
+    {
+      "id": "quark:thatch_stairs",
+      "required": false
+    },
+    {
+      "id": "quark:thatch_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:torch_arrow",
+      "required": false
+    },
+    {
+      "id": "quark:trapped_acacia_chest",
+      "required": false
+    },
+    {
+      "id": "quark:trapped_ancient_chest",
+      "required": false
+    },
+    {
+      "id": "quark:trapped_azalea_chest",
+      "required": false
+    },
+    {
+      "id": "quark:trapped_bamboo_chest",
+      "required": false
+    },
+    {
+      "id": "quark:trapped_birch_chest",
+      "required": false
+    },
+    {
+      "id": "quark:trapped_blossom_chest",
+      "required": false
+    },
+    {
+      "id": "quark:trapped_cherry_chest",
+      "required": false
+    },
+    {
+      "id": "quark:trapped_crimson_chest",
+      "required": false
+    },
+    {
+      "id": "quark:trapped_dark_oak_chest",
+      "required": false
+    },
+    {
+      "id": "quark:trapped_jungle_chest",
+      "required": false
+    },
+    {
+      "id": "quark:trapped_mangrove_chest",
+      "required": false
+    },
+    {
+      "id": "quark:trapped_nether_brick_chest",
+      "required": false
+    },
+    {
+      "id": "quark:trapped_oak_chest",
+      "required": false
+    },
+    {
+      "id": "quark:trapped_prismarine_chest",
+      "required": false
+    },
+    {
+      "id": "quark:trapped_purpur_chest",
+      "required": false
+    },
+    {
+      "id": "quark:trapped_spruce_chest",
+      "required": false
+    },
+    {
+      "id": "quark:trapped_warped_chest",
+      "required": false
+    },
+    {
+      "id": "quark:tuff_brick_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:tuff_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:violet_crystal_lamp",
+      "required": false
+    },
+    {
+      "id": "quark:warped_chest",
+      "required": false
+    },
+    {
+      "id": "quark:warped_ladder",
+      "required": false
+    },
+    {
+      "id": "quark:warped_post",
+      "required": false
+    },
+    {
+      "id": "quark:warped_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:waxed_cut_copper_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:waxed_exposed_cut_copper_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:waxed_oxidized_cut_copper_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:waxed_weathered_cut_copper_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:weathered_cut_copper_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:white_crystal_lamp",
+      "required": false
+    },
+    {
+      "id": "quark:white_framed_glass",
+      "required": false
+    },
+    {
+      "id": "quark:white_framed_glass_pane",
+      "required": false
+    },
+    {
+      "id": "quark:white_shingles_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:white_stool",
+      "required": false
+    },
+    {
+      "id": "quark:yellow_blossom_hedge",
+      "required": false
+    },
+    {
+      "id": "quark:yellow_blossom_leaf_carpet",
+      "required": false
+    },
+    {
+      "id": "quark:yellow_crystal_lamp",
+      "required": false
+    },
+    {
+      "id": "quark:yellow_framed_glass",
+      "required": false
+    },
+    {
+      "id": "quark:yellow_framed_glass_pane",
+      "required": false
+    },
+    {
+      "id": "quark:yellow_shingles_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:yellow_stool",
+      "required": false
+    },
+    {
+      "id": "supplementaries:bamboo_spikes",
+      "required": false
+    },
+    {
+      "id": "supplementaries:bamboo_spikes_tipped",
+      "required": false
+    },
+    {
+      "id": "supplementaries:bomb",
+      "required": false
+    },
+    {
+      "id": "supplementaries:bomb_blue",
+      "required": false
+    },
+    {
+      "id": "supplementaries:cage",
+      "required": false
+    },
+    {
+      "id": "supplementaries:cannon",
+      "required": false
+    },
+    {
+      "id": "supplementaries:checker_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "supplementaries:crystal_display",
+      "required": false
+    },
+    {
+      "id": "supplementaries:dispenser_minecart",
+      "required": false
+    },
+    {
+      "id": "supplementaries:enderman_head",
+      "required": false
+    },
+    {
+      "id": "supplementaries:faucet",
+      "required": false
+    },
+    {
+      "id": "supplementaries:gold_bars",
+      "required": false
+    },
+    {
+      "id": "supplementaries:pulley_block",
+      "required": false
+    },
+    {
+      "id": "supplementaries:rope_arrow",
+      "required": false
+    },
+    {
+      "id": "supplementaries:slingshot",
+      "required": false
+    },
+    {
+      "id": "supplementaries:spring_launcher",
+      "required": false
+    },
+    {
+      "id": "supplementaries:turn_table",
+      "required": false
+    },
+    {
+      "id": "supplementaries:wrench",
+      "required": false
+    }
+  ]
+}

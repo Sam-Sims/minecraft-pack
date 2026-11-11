@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "description": "Hide disabled Quark and Supplementaries items from JEI/EMI"
+  }
+}
