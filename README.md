@@ -21,7 +21,7 @@ A Minecraft modpack for my server.
 4. Move `packwiz-installer-bootstrap.jar` into that folder. The file name must stay exactly
    `packwiz-installer-bootstrap.jar`.
 
-### 4. Tell Prism to run the updater before the game
+### 4. Prism settings
 
 1. Click your instance, then `Edit` on the right.
 2. Go to `Settings` → `Custom commands` tab.
