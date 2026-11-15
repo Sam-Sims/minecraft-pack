@@ -70,6 +70,11 @@ hash = "66b2e57fad1d958893206d82ff878159b7fdfef64ccb74fe1232b71012409953"
 metafile = true
 
 [[files]]
+file = "mods/cluttered.pw.toml"
+hash = "503569d1bccf50d580e517550e8f66574d881deac197f30fedb0a18ebb5d3ff4"
+metafile = true
+
+[[files]]
 file = "mods/colorwheel.pw.toml"
 hash = "7c2127e51e0f4f513b5843e8713af259f86797f62320b1773456d3587611bb7a"
 metafile = true
