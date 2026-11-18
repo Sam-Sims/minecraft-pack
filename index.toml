@@ -5,8 +5,16 @@ file = "config/betterdungeons-neoforge-1_21.toml"
 hash = "001af14b87e8ac35e7524cc243a43ad01596d1b12b3065add54701000be27527"
 
 [[files]]
+file = "config/copycats-common.toml"
+hash = "d2fced07a5ab6a892c7a2016df3e1bd9e60787c6c730824548cf1e59f569408e"
+
+[[files]]
 file = "config/create-server.toml"
 hash = "dc35b0fa66f68a95bec09f5caefb761c0a64a6c715b283cdd6968d7dd3dd509a"
+
+[[files]]
+file = "config/create_connected-common.toml"
+hash = "9b2ec7373a542e3cc4f6e7f528476d9402f6267b34723308ddb9c3d9c7a68f55"
 
 [[files]]
 file = "config/ftbbackups3-server.snbt"
@@ -31,12 +39,17 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
+hash = "21347d7f9c96cebacb7238dbef2670e2906a11572606016c8184e9485947dacc"
 metafile = true
 
 [[files]]
 file = "mods/armor-poser.pw.toml"
 hash = "dd53b3b5adefe064039249ceeb51f820d102dfdf8a157974ee462d066a30ef5f"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "dd56ff2bcc4253d1d70c08333632743fb56cdc4cf5518dc6afc024164633145d"
 metafile = true
 
 [[files]]
@@ -81,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity-neoforged.pw.toml"
-hash = "1f02b2cc1f40ef35e5fdb155fd82b27e907ff35f082f5724031bf43e1bb045ad"
+hash = "e5461872908e786aaa7dd57b83e8951d483f5c778f335d4b9dbf10f36ba1f4b8"
 metafile = true
 
 [[files]]
@@ -97,6 +110,11 @@ metafile = true
 [[files]]
 file = "mods/create-connected.pw.toml"
 hash = "6ac362d60bc8b13e03a5b6b9cdf9c7676f65d3e89e87c66f18514e7ee164cdb0"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
 metafile = true
 
 [[files]]
@@ -161,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "ea21fc0ba1035be16871b6558b4ecdb8ebdc1685b9984c2c7cae51d126062e80"
+hash = "89aa8a22097cf9003a84bd71d29204800d7934d1fefedcae9ae759d34c3e5703"
 metafile = true
 
 [[files]]
@@ -215,6 +233,11 @@ hash = "bdcf58d88b140d700a189c2e5a8b659a80fe5c165860706ecae7c6bd9b9fa757"
 metafile = true
 
 [[files]]
+file = "mods/immersive-paintings-blocks.pw.toml"
+hash = "e8fd953c46b027dead3b4b0b02298d97b31b77ef1007b78fafc362c58330f439"
+metafile = true
+
+[[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "a46a4220e4d467208a042ccd05cc8c2908733f02da6f5ecd532ab4cb2ed72909"
 metafile = true
@@ -251,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
+hash = "52be2f8af37fa9a10f817b3a676e56c9cdf33a3632048d8e922312878244b794"
 metafile = true
 
 [[files]]

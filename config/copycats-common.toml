@@ -1,0 +1,3 @@
+[features]
+	copycat_pane = false
+	copycat_flat_pane = false

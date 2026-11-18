@@ -1,0 +1,8 @@
+[features]
+	empty_fan_catalyst = false
+	inventory_access_port = false
+	inventory_bridge = false
+	kinetic_battery = false
+	kinetic_bridge = false
+	cross_connector = false
+	brass_gearbox = false

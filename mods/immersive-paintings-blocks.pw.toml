@@ -1,0 +1,13 @@
+name = "Immersive Paintings Blocks"
+filename = "imb-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "db9b652d8c6bca944a4f3723f0c71805edb0d1d0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8945947
+project-id = 1707097

@@ -26,7 +26,43 @@
       "required": false
     },
     {
+      "id": "quark:ancient_boat",
+      "required": false
+    },
+    {
+      "id": "quark:ancient_bookshelf",
+      "required": false
+    },
+    {
+      "id": "quark:ancient_button",
+      "required": false
+    },
+    {
       "id": "quark:ancient_chest",
+      "required": false
+    },
+    {
+      "id": "quark:ancient_chest_boat",
+      "required": false
+    },
+    {
+      "id": "quark:ancient_door",
+      "required": false
+    },
+    {
+      "id": "quark:ancient_fence",
+      "required": false
+    },
+    {
+      "id": "quark:ancient_fence_gate",
+      "required": false
+    },
+    {
+      "id": "quark:ancient_fruit",
+      "required": false
+    },
+    {
+      "id": "quark:ancient_hanging_sign",
       "required": false
     },
     {
@@ -42,6 +78,26 @@
       "required": false
     },
     {
+      "id": "quark:ancient_leaves",
+      "required": false
+    },
+    {
+      "id": "quark:ancient_log",
+      "required": false
+    },
+    {
+      "id": "quark:ancient_planks",
+      "required": false
+    },
+    {
+      "id": "quark:ancient_planks_slab",
+      "required": false
+    },
+    {
+      "id": "quark:ancient_planks_stairs",
+      "required": false
+    },
+    {
       "id": "quark:ancient_planks_vertical_slab",
       "required": false
     },
@@ -50,7 +106,51 @@
       "required": false
     },
     {
+      "id": "quark:ancient_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "quark:ancient_sapling",
+      "required": false
+    },
+    {
+      "id": "quark:ancient_sign",
+      "required": false
+    },
+    {
+      "id": "quark:ancient_tome",
+      "required": false
+    },
+    {
+      "id": "quark:ancient_trapdoor",
+      "required": false
+    },
+    {
+      "id": "quark:ancient_wood",
+      "required": false
+    },
+    {
+      "id": "quark:andesite_bricks",
+      "required": false
+    },
+    {
+      "id": "quark:andesite_bricks_slab",
+      "required": false
+    },
+    {
+      "id": "quark:andesite_bricks_stairs",
+      "required": false
+    },
+    {
       "id": "quark:andesite_bricks_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:andesite_bricks_wall",
+      "required": false
+    },
+    {
+      "id": "quark:andesite_pillar",
       "required": false
     },
     {
@@ -58,7 +158,39 @@
       "required": false
     },
     {
+      "id": "quark:azalea_boat",
+      "required": false
+    },
+    {
+      "id": "quark:azalea_bookshelf",
+      "required": false
+    },
+    {
+      "id": "quark:azalea_button",
+      "required": false
+    },
+    {
       "id": "quark:azalea_chest",
+      "required": false
+    },
+    {
+      "id": "quark:azalea_chest_boat",
+      "required": false
+    },
+    {
+      "id": "quark:azalea_door",
+      "required": false
+    },
+    {
+      "id": "quark:azalea_fence",
+      "required": false
+    },
+    {
+      "id": "quark:azalea_fence_gate",
+      "required": false
+    },
+    {
+      "id": "quark:azalea_hanging_sign",
       "required": false
     },
     {
@@ -74,6 +206,22 @@
       "required": false
     },
     {
+      "id": "quark:azalea_log",
+      "required": false
+    },
+    {
+      "id": "quark:azalea_planks",
+      "required": false
+    },
+    {
+      "id": "quark:azalea_planks_slab",
+      "required": false
+    },
+    {
+      "id": "quark:azalea_planks_stairs",
+      "required": false
+    },
+    {
       "id": "quark:azalea_planks_vertical_slab",
       "required": false
     },
@@ -82,11 +230,39 @@
       "required": false
     },
     {
+      "id": "quark:azalea_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "quark:azalea_sign",
+      "required": false
+    },
+    {
+      "id": "quark:azalea_trapdoor",
+      "required": false
+    },
+    {
+      "id": "quark:azalea_wood",
+      "required": false
+    },
+    {
+      "id": "quark:backpack",
+      "required": false
+    },
+    {
       "id": "quark:bamboo_chest",
       "required": false
     },
     {
       "id": "quark:bamboo_ladder",
+      "required": false
+    },
+    {
+      "id": "quark:bamboo_mat",
+      "required": false
+    },
+    {
+      "id": "quark:bamboo_mat_carpet",
       "required": false
     },
     {
@@ -126,6 +302,18 @@
       "required": false
     },
     {
+      "id": "quark:black_corundum",
+      "required": false
+    },
+    {
+      "id": "quark:black_corundum_cluster",
+      "required": false
+    },
+    {
+      "id": "quark:black_corundum_pane",
+      "required": false
+    },
+    {
       "id": "quark:black_crystal_lamp",
       "required": false
     },
@@ -135,6 +323,10 @@
     },
     {
       "id": "quark:black_framed_glass_pane",
+      "required": false
+    },
+    {
+      "id": "quark:black_shard",
       "required": false
     },
     {
@@ -158,11 +350,59 @@
       "required": false
     },
     {
+      "id": "quark:blossom_boat",
+      "required": false
+    },
+    {
+      "id": "quark:blossom_bookshelf",
+      "required": false
+    },
+    {
+      "id": "quark:blossom_button",
+      "required": false
+    },
+    {
       "id": "quark:blossom_chest",
       "required": false
     },
     {
+      "id": "quark:blossom_chest_boat",
+      "required": false
+    },
+    {
+      "id": "quark:blossom_door",
+      "required": false
+    },
+    {
+      "id": "quark:blossom_fence",
+      "required": false
+    },
+    {
+      "id": "quark:blossom_fence_gate",
+      "required": false
+    },
+    {
+      "id": "quark:blossom_hanging_sign",
+      "required": false
+    },
+    {
       "id": "quark:blossom_ladder",
+      "required": false
+    },
+    {
+      "id": "quark:blossom_log",
+      "required": false
+    },
+    {
+      "id": "quark:blossom_planks",
+      "required": false
+    },
+    {
+      "id": "quark:blossom_planks_slab",
+      "required": false
+    },
+    {
+      "id": "quark:blossom_planks_stairs",
       "required": false
     },
     {
@@ -174,11 +414,47 @@
       "required": false
     },
     {
+      "id": "quark:blossom_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "quark:blossom_sign",
+      "required": false
+    },
+    {
+      "id": "quark:blossom_trapdoor",
+      "required": false
+    },
+    {
+      "id": "quark:blossom_wood",
+      "required": false
+    },
+    {
       "id": "quark:blue_blossom_hedge",
       "required": false
     },
     {
       "id": "quark:blue_blossom_leaf_carpet",
+      "required": false
+    },
+    {
+      "id": "quark:blue_blossom_leaves",
+      "required": false
+    },
+    {
+      "id": "quark:blue_blossom_sapling",
+      "required": false
+    },
+    {
+      "id": "quark:blue_corundum",
+      "required": false
+    },
+    {
+      "id": "quark:blue_corundum_cluster",
+      "required": false
+    },
+    {
+      "id": "quark:blue_corundum_pane",
       "required": false
     },
     {
@@ -198,11 +474,23 @@
       "required": false
     },
     {
+      "id": "quark:blue_shard",
+      "required": false
+    },
+    {
       "id": "quark:blue_shingles_vertical_slab",
       "required": false
     },
     {
       "id": "quark:blue_stool",
+      "required": false
+    },
+    {
+      "id": "quark:bonded_ravager_hide",
+      "required": false
+    },
+    {
+      "id": "quark:bottled_cloud",
       "required": false
     },
     {
@@ -218,6 +506,10 @@
       "required": false
     },
     {
+      "id": "quark:brown_shard",
+      "required": false
+    },
+    {
       "id": "quark:brown_shingles_vertical_slab",
       "required": false
     },
@@ -226,11 +518,43 @@
       "required": false
     },
     {
+      "id": "quark:calcite_bricks",
+      "required": false
+    },
+    {
+      "id": "quark:calcite_bricks_slab",
+      "required": false
+    },
+    {
+      "id": "quark:calcite_bricks_stairs",
+      "required": false
+    },
+    {
       "id": "quark:calcite_bricks_vertical_slab",
       "required": false
     },
     {
+      "id": "quark:calcite_bricks_wall",
+      "required": false
+    },
+    {
+      "id": "quark:calcite_pillar",
+      "required": false
+    },
+    {
+      "id": "quark:calcite_slab",
+      "required": false
+    },
+    {
+      "id": "quark:calcite_stairs",
+      "required": false
+    },
+    {
       "id": "quark:calcite_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:calcite_wall",
       "required": false
     },
     {
@@ -258,6 +582,62 @@
       "required": false
     },
     {
+      "id": "quark:chiseled_andesite_bricks",
+      "required": false
+    },
+    {
+      "id": "quark:chiseled_calcite_bricks",
+      "required": false
+    },
+    {
+      "id": "quark:chiseled_diorite_bricks",
+      "required": false
+    },
+    {
+      "id": "quark:chiseled_dripstone_bricks",
+      "required": false
+    },
+    {
+      "id": "quark:chiseled_granite_bricks",
+      "required": false
+    },
+    {
+      "id": "quark:chiseled_jasper_bricks",
+      "required": false
+    },
+    {
+      "id": "quark:chiseled_limestone_bricks",
+      "required": false
+    },
+    {
+      "id": "quark:chiseled_myalite_bricks",
+      "required": false
+    },
+    {
+      "id": "quark:chiseled_shale_bricks",
+      "required": false
+    },
+    {
+      "id": "quark:chorus_twist",
+      "required": false
+    },
+    {
+      "id": "quark:chorus_weeds",
+      "required": false
+    },
+    {
+      "id": "quark:chute",
+      "required": false
+    },
+    {
+      "id": "quark:clear_shard",
+      "required": false
+    },
+    {
+      "id": "quark:cloud",
+      "required": false
+    },
+    {
       "id": "quark:cobbled_deepslate_vertical_slab",
       "required": false
     },
@@ -267,6 +647,30 @@
     },
     {
       "id": "quark:cobblestone_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:cooked_crab_leg",
+      "required": false
+    },
+    {
+      "id": "quark:crab_bucket",
+      "required": false
+    },
+    {
+      "id": "quark:crab_leg",
+      "required": false
+    },
+    {
+      "id": "quark:crab_shell",
+      "required": false
+    },
+    {
+      "id": "quark:crab_spawn_egg",
+      "required": false
+    },
+    {
+      "id": "quark:crate",
       "required": false
     },
     {
@@ -307,6 +711,10 @@
     },
     {
       "id": "quark:cyan_framed_glass_pane",
+      "required": false
+    },
+    {
+      "id": "quark:cyan_shard",
       "required": false
     },
     {
@@ -358,7 +766,31 @@
       "required": false
     },
     {
+      "id": "quark:diamond_heart",
+      "required": false
+    },
+    {
+      "id": "quark:diorite_bricks",
+      "required": false
+    },
+    {
+      "id": "quark:diorite_bricks_slab",
+      "required": false
+    },
+    {
+      "id": "quark:diorite_bricks_stairs",
+      "required": false
+    },
+    {
       "id": "quark:diorite_bricks_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:diorite_bricks_wall",
+      "required": false
+    },
+    {
+      "id": "quark:diorite_pillar",
       "required": false
     },
     {
@@ -378,11 +810,51 @@
       "required": false
     },
     {
+      "id": "quark:dirty_shard",
+      "required": false
+    },
+    {
+      "id": "quark:dragon_scale",
+      "required": false
+    },
+    {
+      "id": "quark:dripstone_block_slab",
+      "required": false
+    },
+    {
+      "id": "quark:dripstone_block_stairs",
+      "required": false
+    },
+    {
       "id": "quark:dripstone_block_vertical_slab",
       "required": false
     },
     {
+      "id": "quark:dripstone_block_wall",
+      "required": false
+    },
+    {
+      "id": "quark:dripstone_bricks",
+      "required": false
+    },
+    {
+      "id": "quark:dripstone_bricks_slab",
+      "required": false
+    },
+    {
+      "id": "quark:dripstone_bricks_stairs",
+      "required": false
+    },
+    {
       "id": "quark:dripstone_bricks_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:dripstone_bricks_wall",
+      "required": false
+    },
+    {
+      "id": "quark:dripstone_pillar",
       "required": false
     },
     {
@@ -406,11 +878,47 @@
       "required": false
     },
     {
+      "id": "quark:dusky_myalite",
+      "required": false
+    },
+    {
+      "id": "quark:egg_parrot_blue",
+      "required": false
+    },
+    {
+      "id": "quark:egg_parrot_gray",
+      "required": false
+    },
+    {
+      "id": "quark:egg_parrot_green",
+      "required": false
+    },
+    {
+      "id": "quark:egg_parrot_red_blue",
+      "required": false
+    },
+    {
+      "id": "quark:egg_parrot_yellow_blue",
+      "required": false
+    },
+    {
+      "id": "quark:encased_pipe",
+      "required": false
+    },
+    {
       "id": "quark:end_stone_brick_vertical_slab",
       "required": false
     },
     {
+      "id": "quark:ender_watcher",
+      "required": false
+    },
+    {
       "id": "quark:exposed_cut_copper_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:feeding_trough",
       "required": false
     },
     {
@@ -426,6 +934,18 @@
       "required": false
     },
     {
+      "id": "quark:forgotten_hat",
+      "required": false
+    },
+    {
+      "id": "quark:forgotten_spawn_egg",
+      "required": false
+    },
+    {
+      "id": "quark:foxhound_spawn_egg",
+      "required": false
+    },
+    {
       "id": "quark:framed_glass",
       "required": false
     },
@@ -434,11 +954,55 @@
       "required": false
     },
     {
+      "id": "quark:glow_lichen_growth",
+      "required": false
+    },
+    {
+      "id": "quark:glow_shroom",
+      "required": false
+    },
+    {
+      "id": "quark:glow_shroom_block",
+      "required": false
+    },
+    {
+      "id": "quark:glow_shroom_ring",
+      "required": false
+    },
+    {
+      "id": "quark:glow_shroom_stem",
+      "required": false
+    },
+    {
       "id": "quark:gold_bars",
       "required": false
     },
     {
+      "id": "quark:gold_button",
+      "required": false
+    },
+    {
+      "id": "quark:granite_bricks",
+      "required": false
+    },
+    {
+      "id": "quark:granite_bricks_slab",
+      "required": false
+    },
+    {
+      "id": "quark:granite_bricks_stairs",
+      "required": false
+    },
+    {
       "id": "quark:granite_bricks_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:granite_bricks_wall",
+      "required": false
+    },
+    {
+      "id": "quark:granite_pillar",
       "required": false
     },
     {
@@ -450,6 +1014,10 @@
       "required": false
     },
     {
+      "id": "quark:gravisand",
+      "required": false
+    },
+    {
       "id": "quark:gray_framed_glass",
       "required": false
     },
@@ -458,11 +1026,27 @@
       "required": false
     },
     {
+      "id": "quark:gray_shard",
+      "required": false
+    },
+    {
       "id": "quark:gray_shingles_vertical_slab",
       "required": false
     },
     {
       "id": "quark:gray_stool",
+      "required": false
+    },
+    {
+      "id": "quark:green_corundum",
+      "required": false
+    },
+    {
+      "id": "quark:green_corundum_cluster",
+      "required": false
+    },
+    {
+      "id": "quark:green_corundum_pane",
       "required": false
     },
     {
@@ -475,6 +1059,10 @@
     },
     {
       "id": "quark:green_framed_glass_pane",
+      "required": false
+    },
+    {
+      "id": "quark:green_shard",
       "required": false
     },
     {
@@ -542,7 +1130,43 @@
       "required": false
     },
     {
+      "id": "quark:indigo_corundum",
+      "required": false
+    },
+    {
+      "id": "quark:indigo_corundum_cluster",
+      "required": false
+    },
+    {
+      "id": "quark:indigo_corundum_pane",
+      "required": false
+    },
+    {
       "id": "quark:indigo_crystal_lamp",
+      "required": false
+    },
+    {
+      "id": "quark:iron_button",
+      "required": false
+    },
+    {
+      "id": "quark:iron_ladder",
+      "required": false
+    },
+    {
+      "id": "quark:iron_pillar",
+      "required": false
+    },
+    {
+      "id": "quark:iron_plate",
+      "required": false
+    },
+    {
+      "id": "quark:iron_plate_slab",
+      "required": false
+    },
+    {
+      "id": "quark:iron_plate_stairs",
       "required": false
     },
     {
@@ -550,11 +1174,51 @@
       "required": false
     },
     {
+      "id": "quark:iron_rod",
+      "required": false
+    },
+    {
+      "id": "quark:jasper",
+      "required": false
+    },
+    {
+      "id": "quark:jasper_bricks",
+      "required": false
+    },
+    {
+      "id": "quark:jasper_bricks_slab",
+      "required": false
+    },
+    {
+      "id": "quark:jasper_bricks_stairs",
+      "required": false
+    },
+    {
       "id": "quark:jasper_bricks_vertical_slab",
       "required": false
     },
     {
+      "id": "quark:jasper_bricks_wall",
+      "required": false
+    },
+    {
+      "id": "quark:jasper_pillar",
+      "required": false
+    },
+    {
+      "id": "quark:jasper_slab",
+      "required": false
+    },
+    {
+      "id": "quark:jasper_stairs",
+      "required": false
+    },
+    {
       "id": "quark:jasper_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:jasper_wall",
       "required": false
     },
     {
@@ -590,11 +1254,23 @@
       "required": false
     },
     {
+      "id": "quark:lavender_blossom_leaves",
+      "required": false
+    },
+    {
+      "id": "quark:lavender_blossom_sapling",
+      "required": false
+    },
+    {
       "id": "quark:light_blue_framed_glass",
       "required": false
     },
     {
       "id": "quark:light_blue_framed_glass_pane",
+      "required": false
+    },
+    {
+      "id": "quark:light_blue_shard",
       "required": false
     },
     {
@@ -614,6 +1290,10 @@
       "required": false
     },
     {
+      "id": "quark:light_gray_shard",
+      "required": false
+    },
+    {
       "id": "quark:light_gray_shingles_vertical_slab",
       "required": false
     },
@@ -630,6 +1310,10 @@
       "required": false
     },
     {
+      "id": "quark:lime_shard",
+      "required": false
+    },
+    {
       "id": "quark:lime_shingles_vertical_slab",
       "required": false
     },
@@ -638,11 +1322,47 @@
       "required": false
     },
     {
+      "id": "quark:limestone",
+      "required": false
+    },
+    {
+      "id": "quark:limestone_bricks",
+      "required": false
+    },
+    {
+      "id": "quark:limestone_bricks_slab",
+      "required": false
+    },
+    {
+      "id": "quark:limestone_bricks_stairs",
+      "required": false
+    },
+    {
       "id": "quark:limestone_bricks_vertical_slab",
       "required": false
     },
     {
+      "id": "quark:limestone_bricks_wall",
+      "required": false
+    },
+    {
+      "id": "quark:limestone_pillar",
+      "required": false
+    },
+    {
+      "id": "quark:limestone_slab",
+      "required": false
+    },
+    {
+      "id": "quark:limestone_stairs",
+      "required": false
+    },
+    {
       "id": "quark:limestone_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:limestone_wall",
       "required": false
     },
     {
@@ -654,11 +1374,23 @@
       "required": false
     },
     {
+      "id": "quark:magenta_shard",
+      "required": false
+    },
+    {
       "id": "quark:magenta_shingles_vertical_slab",
       "required": false
     },
     {
       "id": "quark:magenta_stool",
+      "required": false
+    },
+    {
+      "id": "quark:magnet",
+      "required": false
+    },
+    {
+      "id": "quark:magnetized_block",
       "required": false
     },
     {
@@ -686,7 +1418,15 @@
       "required": false
     },
     {
+      "id": "quark:matrix_enchanter",
+      "required": false
+    },
+    {
       "id": "quark:midori_block_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:monster_box",
       "required": false
     },
     {
@@ -706,11 +1446,87 @@
       "required": false
     },
     {
+      "id": "quark:music_disc_chatter",
+      "required": false
+    },
+    {
+      "id": "quark:music_disc_clock",
+      "required": false
+    },
+    {
+      "id": "quark:music_disc_crickets",
+      "required": false
+    },
+    {
+      "id": "quark:music_disc_drips",
+      "required": false
+    },
+    {
+      "id": "quark:music_disc_endermosh",
+      "required": false
+    },
+    {
+      "id": "quark:music_disc_fire",
+      "required": false
+    },
+    {
+      "id": "quark:music_disc_ocean",
+      "required": false
+    },
+    {
+      "id": "quark:music_disc_rain",
+      "required": false
+    },
+    {
+      "id": "quark:music_disc_wind",
+      "required": false
+    },
+    {
+      "id": "quark:myalite",
+      "required": false
+    },
+    {
+      "id": "quark:myalite_bricks",
+      "required": false
+    },
+    {
+      "id": "quark:myalite_bricks_slab",
+      "required": false
+    },
+    {
+      "id": "quark:myalite_bricks_stairs",
+      "required": false
+    },
+    {
       "id": "quark:myalite_bricks_vertical_slab",
       "required": false
     },
     {
+      "id": "quark:myalite_bricks_wall",
+      "required": false
+    },
+    {
+      "id": "quark:myalite_crystal",
+      "required": false
+    },
+    {
+      "id": "quark:myalite_pillar",
+      "required": false
+    },
+    {
+      "id": "quark:myalite_slab",
+      "required": false
+    },
+    {
+      "id": "quark:myalite_stairs",
+      "required": false
+    },
+    {
       "id": "quark:myalite_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:myalite_wall",
       "required": false
     },
     {
@@ -750,11 +1566,35 @@
       "required": false
     },
     {
+      "id": "quark:obsidian_pressure_plate",
+      "required": false
+    },
+    {
       "id": "quark:orange_blossom_hedge",
       "required": false
     },
     {
       "id": "quark:orange_blossom_leaf_carpet",
+      "required": false
+    },
+    {
+      "id": "quark:orange_blossom_leaves",
+      "required": false
+    },
+    {
+      "id": "quark:orange_blossom_sapling",
+      "required": false
+    },
+    {
+      "id": "quark:orange_corundum",
+      "required": false
+    },
+    {
+      "id": "quark:orange_corundum_cluster",
+      "required": false
+    },
+    {
+      "id": "quark:orange_corundum_pane",
       "required": false
     },
     {
@@ -770,6 +1610,10 @@
       "required": false
     },
     {
+      "id": "quark:orange_shard",
+      "required": false
+    },
+    {
       "id": "quark:orange_shingles_vertical_slab",
       "required": false
     },
@@ -782,11 +1626,67 @@
       "required": false
     },
     {
+      "id": "quark:paper_lantern",
+      "required": false
+    },
+    {
+      "id": "quark:paper_lantern_sakura",
+      "required": false
+    },
+    {
+      "id": "quark:paper_wall",
+      "required": false
+    },
+    {
+      "id": "quark:paper_wall_big",
+      "required": false
+    },
+    {
+      "id": "quark:paper_wall_sakura",
+      "required": false
+    },
+    {
+      "id": "quark:pathfinders_quill",
+      "required": false
+    },
+    {
+      "id": "quark:permafrost",
+      "required": false
+    },
+    {
+      "id": "quark:permafrost_bricks",
+      "required": false
+    },
+    {
+      "id": "quark:permafrost_bricks_slab",
+      "required": false
+    },
+    {
+      "id": "quark:permafrost_bricks_stairs",
+      "required": false
+    },
+    {
       "id": "quark:permafrost_bricks_vertical_slab",
       "required": false
     },
     {
+      "id": "quark:permafrost_bricks_wall",
+      "required": false
+    },
+    {
+      "id": "quark:permafrost_slab",
+      "required": false
+    },
+    {
+      "id": "quark:permafrost_stairs",
+      "required": false
+    },
+    {
       "id": "quark:permafrost_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:permafrost_wall",
       "required": false
     },
     {
@@ -802,11 +1702,19 @@
       "required": false
     },
     {
+      "id": "quark:pink_shard",
+      "required": false
+    },
+    {
       "id": "quark:pink_shingles_vertical_slab",
       "required": false
     },
     {
       "id": "quark:pink_stool",
+      "required": false
+    },
+    {
+      "id": "quark:pipe",
       "required": false
     },
     {
@@ -822,6 +1730,18 @@
       "required": false
     },
     {
+      "id": "quark:polished_calcite",
+      "required": false
+    },
+    {
+      "id": "quark:polished_calcite_slab",
+      "required": false
+    },
+    {
+      "id": "quark:polished_calcite_stairs",
+      "required": false
+    },
+    {
       "id": "quark:polished_calcite_vertical_slab",
       "required": false
     },
@@ -834,6 +1754,18 @@
       "required": false
     },
     {
+      "id": "quark:polished_dripstone",
+      "required": false
+    },
+    {
+      "id": "quark:polished_dripstone_slab",
+      "required": false
+    },
+    {
+      "id": "quark:polished_dripstone_stairs",
+      "required": false
+    },
+    {
       "id": "quark:polished_dripstone_vertical_slab",
       "required": false
     },
@@ -842,7 +1774,31 @@
       "required": false
     },
     {
+      "id": "quark:polished_jasper",
+      "required": false
+    },
+    {
+      "id": "quark:polished_jasper_slab",
+      "required": false
+    },
+    {
+      "id": "quark:polished_jasper_stairs",
+      "required": false
+    },
+    {
       "id": "quark:polished_jasper_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:polished_limestone",
+      "required": false
+    },
+    {
+      "id": "quark:polished_limestone_slab",
+      "required": false
+    },
+    {
+      "id": "quark:polished_limestone_stairs",
       "required": false
     },
     {
@@ -850,7 +1806,31 @@
       "required": false
     },
     {
+      "id": "quark:polished_myalite",
+      "required": false
+    },
+    {
+      "id": "quark:polished_myalite_slab",
+      "required": false
+    },
+    {
+      "id": "quark:polished_myalite_stairs",
+      "required": false
+    },
+    {
       "id": "quark:polished_myalite_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:polished_shale",
+      "required": false
+    },
+    {
+      "id": "quark:polished_shale_slab",
+      "required": false
+    },
+    {
+      "id": "quark:polished_shale_stairs",
       "required": false
     },
     {
@@ -882,6 +1862,10 @@
       "required": false
     },
     {
+      "id": "quark:purple_shard",
+      "required": false
+    },
+    {
       "id": "quark:purple_shingles_vertical_slab",
       "required": false
     },
@@ -902,6 +1886,10 @@
       "required": false
     },
     {
+      "id": "quark:ravager_hide",
+      "required": false
+    },
+    {
       "id": "quark:raw_copper_bricks_vertical_slab",
       "required": false
     },
@@ -919,6 +1907,26 @@
     },
     {
       "id": "quark:red_blossom_leaf_carpet",
+      "required": false
+    },
+    {
+      "id": "quark:red_blossom_leaves",
+      "required": false
+    },
+    {
+      "id": "quark:red_blossom_sapling",
+      "required": false
+    },
+    {
+      "id": "quark:red_corundum",
+      "required": false
+    },
+    {
+      "id": "quark:red_corundum_cluster",
+      "required": false
+    },
+    {
+      "id": "quark:red_corundum_pane",
       "required": false
     },
     {
@@ -946,6 +1954,10 @@
       "required": false
     },
     {
+      "id": "quark:red_shard",
+      "required": false
+    },
+    {
       "id": "quark:red_shingles_vertical_slab",
       "required": false
     },
@@ -954,7 +1966,23 @@
       "required": false
     },
     {
+      "id": "quark:redstone_randomizer",
+      "required": false
+    },
+    {
       "id": "quark:rope",
+      "required": false
+    },
+    {
+      "id": "quark:rusty_iron_plate",
+      "required": false
+    },
+    {
+      "id": "quark:rusty_iron_plate_slab",
+      "required": false
+    },
+    {
+      "id": "quark:rusty_iron_plate_stairs",
       "required": false
     },
     {
@@ -974,11 +2002,51 @@
       "required": false
     },
     {
+      "id": "quark:shale",
+      "required": false
+    },
+    {
+      "id": "quark:shale_bricks",
+      "required": false
+    },
+    {
+      "id": "quark:shale_bricks_slab",
+      "required": false
+    },
+    {
+      "id": "quark:shale_bricks_stairs",
+      "required": false
+    },
+    {
       "id": "quark:shale_bricks_vertical_slab",
       "required": false
     },
     {
+      "id": "quark:shale_bricks_wall",
+      "required": false
+    },
+    {
+      "id": "quark:shale_pillar",
+      "required": false
+    },
+    {
+      "id": "quark:shale_slab",
+      "required": false
+    },
+    {
+      "id": "quark:shale_stairs",
+      "required": false
+    },
+    {
       "id": "quark:shale_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:shale_wall",
+      "required": false
+    },
+    {
+      "id": "quark:shiba_spawn_egg",
       "required": false
     },
     {
@@ -1007,6 +2075,10 @@
     },
     {
       "id": "quark:smooth_stone_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:soul_bead",
       "required": false
     },
     {
@@ -1058,7 +2130,15 @@
       "required": false
     },
     {
+      "id": "quark:stoneling_spawn_egg",
+      "required": false
+    },
+    {
       "id": "quark:stripped_acacia_post",
+      "required": false
+    },
+    {
+      "id": "quark:stripped_ancient_log",
       "required": false
     },
     {
@@ -1066,7 +2146,19 @@
       "required": false
     },
     {
+      "id": "quark:stripped_ancient_wood",
+      "required": false
+    },
+    {
+      "id": "quark:stripped_azalea_log",
+      "required": false
+    },
+    {
       "id": "quark:stripped_azalea_post",
+      "required": false
+    },
+    {
+      "id": "quark:stripped_azalea_wood",
       "required": false
     },
     {
@@ -1078,7 +2170,15 @@
       "required": false
     },
     {
+      "id": "quark:stripped_blossom_log",
+      "required": false
+    },
+    {
       "id": "quark:stripped_blossom_post",
+      "required": false
+    },
+    {
+      "id": "quark:stripped_blossom_wood",
       "required": false
     },
     {
@@ -1134,7 +2234,15 @@
       "required": false
     },
     {
+      "id": "quark:tiny_potato",
+      "required": false
+    },
+    {
       "id": "quark:torch_arrow",
+      "required": false
+    },
+    {
+      "id": "quark:toretoise_spawn_egg",
       "required": false
     },
     {
@@ -1214,6 +2322,30 @@
       "required": false
     },
     {
+      "id": "quark:vertical_ancient_planks",
+      "required": false
+    },
+    {
+      "id": "quark:vertical_azalea_planks",
+      "required": false
+    },
+    {
+      "id": "quark:vertical_blossom_planks",
+      "required": false
+    },
+    {
+      "id": "quark:violet_corundum",
+      "required": false
+    },
+    {
+      "id": "quark:violet_corundum_cluster",
+      "required": false
+    },
+    {
+      "id": "quark:violet_corundum_pane",
+      "required": false
+    },
+    {
       "id": "quark:violet_crystal_lamp",
       "required": false
     },
@@ -1234,6 +2366,14 @@
       "required": false
     },
     {
+      "id": "quark:waxed_black_corundum",
+      "required": false
+    },
+    {
+      "id": "quark:waxed_blue_corundum",
+      "required": false
+    },
+    {
       "id": "quark:waxed_cut_copper_vertical_slab",
       "required": false
     },
@@ -1242,7 +2382,27 @@
       "required": false
     },
     {
+      "id": "quark:waxed_green_corundum",
+      "required": false
+    },
+    {
+      "id": "quark:waxed_indigo_corundum",
+      "required": false
+    },
+    {
+      "id": "quark:waxed_orange_corundum",
+      "required": false
+    },
+    {
       "id": "quark:waxed_oxidized_cut_copper_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:waxed_red_corundum",
+      "required": false
+    },
+    {
+      "id": "quark:waxed_violet_corundum",
       "required": false
     },
     {
@@ -1250,7 +2410,27 @@
       "required": false
     },
     {
+      "id": "quark:waxed_white_corundum",
+      "required": false
+    },
+    {
+      "id": "quark:waxed_yellow_corundum",
+      "required": false
+    },
+    {
       "id": "quark:weathered_cut_copper_vertical_slab",
+      "required": false
+    },
+    {
+      "id": "quark:white_corundum",
+      "required": false
+    },
+    {
+      "id": "quark:white_corundum_cluster",
+      "required": false
+    },
+    {
+      "id": "quark:white_corundum_pane",
       "required": false
     },
     {
@@ -1266,6 +2446,10 @@
       "required": false
     },
     {
+      "id": "quark:white_shard",
+      "required": false
+    },
+    {
       "id": "quark:white_shingles_vertical_slab",
       "required": false
     },
@@ -1274,11 +2458,35 @@
       "required": false
     },
     {
+      "id": "quark:wraith_spawn_egg",
+      "required": false
+    },
+    {
       "id": "quark:yellow_blossom_hedge",
       "required": false
     },
     {
       "id": "quark:yellow_blossom_leaf_carpet",
+      "required": false
+    },
+    {
+      "id": "quark:yellow_blossom_leaves",
+      "required": false
+    },
+    {
+      "id": "quark:yellow_blossom_sapling",
+      "required": false
+    },
+    {
+      "id": "quark:yellow_corundum",
+      "required": false
+    },
+    {
+      "id": "quark:yellow_corundum_cluster",
+      "required": false
+    },
+    {
+      "id": "quark:yellow_corundum_pane",
       "required": false
     },
     {
@@ -1291,6 +2499,10 @@
     },
     {
       "id": "quark:yellow_framed_glass_pane",
+      "required": false
+    },
+    {
+      "id": "quark:yellow_shard",
       "required": false
     },
     {
@@ -1318,11 +2530,59 @@
       "required": false
     },
     {
+      "id": "supplementaries:bomb_blue_projectile",
+      "required": false
+    },
+    {
+      "id": "supplementaries:bomb_projectile",
+      "required": false
+    },
+    {
       "id": "supplementaries:cage",
       "required": false
     },
     {
       "id": "supplementaries:cannon",
+      "required": false
+    },
+    {
+      "id": "supplementaries:cannon_boat_acacia",
+      "required": false
+    },
+    {
+      "id": "supplementaries:cannon_boat_birch",
+      "required": false
+    },
+    {
+      "id": "supplementaries:cannon_boat_cherry",
+      "required": false
+    },
+    {
+      "id": "supplementaries:cannon_boat_dark_oak",
+      "required": false
+    },
+    {
+      "id": "supplementaries:cannon_boat_jungle",
+      "required": false
+    },
+    {
+      "id": "supplementaries:cannon_boat_mangrove",
+      "required": false
+    },
+    {
+      "id": "supplementaries:cannon_boat_oak",
+      "required": false
+    },
+    {
+      "id": "supplementaries:cannon_boat_spruce",
+      "required": false
+    },
+    {
+      "id": "supplementaries:cannon_raft_bamboo",
+      "required": false
+    },
+    {
+      "id": "supplementaries:cannonball",
       "required": false
     },
     {
@@ -1350,6 +2610,18 @@
       "required": false
     },
     {
+      "id": "supplementaries:gold_gate",
+      "required": false
+    },
+    {
+      "id": "supplementaries:music_disc_heave_ho",
+      "required": false
+    },
+    {
+      "id": "supplementaries:plunderer_spawn_egg",
+      "required": false
+    },
+    {
       "id": "supplementaries:pulley_block",
       "required": false
     },
@@ -1366,11 +2638,279 @@
       "required": false
     },
     {
+      "id": "supplementaries:spring_launcher_head",
+      "required": false
+    },
+    {
       "id": "supplementaries:turn_table",
       "required": false
     },
     {
       "id": "supplementaries:wrench",
+      "required": false
+    },
+    {
+      "id": "#supplementaries:cannon_boats",
+      "required": false
+    },
+    {
+      "id": "create_connected:andesite_encased_cross_connector",
+      "required": false
+    },
+    {
+      "id": "create_connected:black_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:blue_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:brass_encased_cross_connector",
+      "required": false
+    },
+    {
+      "id": "create_connected:brass_gearbox",
+      "required": false
+    },
+    {
+      "id": "create_connected:brown_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:charged_kinetic_battery",
+      "required": false
+    },
+    {
+      "id": "create_connected:cross_connector",
+      "required": false
+    },
+    {
+      "id": "create_connected:cyan_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:dye_depot_amber_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:dye_depot_aqua_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:dye_depot_beige_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:dye_depot_coral_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:dye_depot_forest_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:dye_depot_ginger_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:dye_depot_indigo_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:dye_depot_maroon_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:dye_depot_mint_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:dye_depot_navy_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:dye_depot_olive_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:dye_depot_rose_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:dye_depot_slate_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:dye_depot_tan_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:dye_depot_teal_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:dye_depot_verdant_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:empty_fan_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:fan_blasting_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:fan_chocolate_coating_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:fan_ending_catalyst_dragon_head",
+      "required": false
+    },
+    {
+      "id": "create_connected:fan_ending_catalyst_dragons_breath",
+      "required": false
+    },
+    {
+      "id": "create_connected:fan_enriched_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:fan_exploding_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:fan_freezing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:fan_glooming_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:fan_haunting_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:fan_honey_coating_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:fan_purifying_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:fan_resonance_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:fan_sanding_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:fan_sculking_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:fan_seething_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:fan_smoking_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:fan_soul_stripping_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:fan_splashing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:fan_transmutation_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:fan_withering_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:gray_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:green_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:inventory_access_port",
+      "required": false
+    },
+    {
+      "id": "create_connected:inventory_bridge",
+      "required": false
+    },
+    {
+      "id": "create_connected:kinetic_battery",
+      "required": false
+    },
+    {
+      "id": "create_connected:kinetic_bridge",
+      "required": false
+    },
+    {
+      "id": "create_connected:light_blue_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:light_gray_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:lime_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:magenta_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:orange_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:pink_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:purple_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:red_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:vertical_brass_gearbox",
+      "required": false
+    },
+    {
+      "id": "create_connected:white_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "create_connected:yellow_fan_dyeing_catalyst",
+      "required": false
+    },
+    {
+      "id": "copycats:copycat_flat_pane",
+      "required": false
+    },
+    {
+      "id": "copycats:copycat_pane",
       "required": false
     }
   ]
