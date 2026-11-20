@@ -1,0 +1,13 @@
+name = "MezzConfigGUI"
+filename = "mezz_config_gui-1.21.1-neoforge-mc1.21.1-0.7.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BOHUKqOz/versions/w3KJAJXs/mezz_config_gui-1.21.1-neoforge-mc1.21.1-0.7.1.jar"
+hash-format = "sha512"
+hash = "f8b6825dadd82355efdaf2a4c2a04259a7b7bba8a258c5f48f36987a3016d31061638e4b127770be686d60a2a34fcff4b9d2d0bf8351c246a4099b0eb8beb9dc"
+
+[update]
+[update.modrinth]
+mod-id = "BOHUKqOz"
+version = "w3KJAJXs"
