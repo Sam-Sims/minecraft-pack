@@ -125,17 +125,17 @@
 		# Default: 60
 		# Range: 0 ~ 500
 		cooldown = 60
-		music_disc_heave_ho = true
+		music_disc_heave_ho = false
 
 		[functional.cannon.cannon_boat]
-			enabled = true
+			enabled = false
 			#Cannon boat recoil multiplier. Higher values will make the cannon boat recoil more when firing a cannonball
 			# Default: 0.5
 			# Range: 0.0 ~ 5.0
 			recoil_multiplier = 0.5
 
 		[functional.cannon.cannonball]
-			enabled = true
+			enabled = false
 			#Cannonball power scaling. Higher values will make cannonballs have more energy. Reminder that the damage and breaking power of a cannonball is proportional to its energy (speed squared) times this constant
 			# Default: 3.5
 			# Range: 0.0 ~ 100.0
@@ -146,11 +146,11 @@
 			break_radius = 1.1
 
 		[functional.cannon.plunderer]
-			enabled = true
+			enabled = false
 			#Galleons are automatically disabled if 'rope' feature is disabled
-			galleon = true
+			galleon = false
 			#When a raid finds no land to spawn a wave on (village surrounded by water) vanilla just cancels it. With this on the whole wave spawns on open water instead, riding boats steered by plunderers
-			naval_raid_when_no_land = true
+			naval_raid_when_no_land = false
 			#Chance for some of a raid wave pillagers to arrive on boats from open water near the village instead of on land. Each boat carries a plunderer at the helm, which takes the place of one of the wave pillagers, and one more pillager. Raid size is unchanged. Set to 0 to disable
 			# Default: 0.4
 			# Range: 0.0 ~ 1.0
@@ -696,7 +696,7 @@
 
 	[tweaks.ai_tweaks]
 		#Allows pillagers to use cannon boats. Add more entities to the 'supplementaries:can_use_cannon_boat' tag to allow them to use cannon boats as well
-		pillagers_use_cannon_boats = true
+		pillagers_use_cannon_boats = false
 		#Allows mobs (like raiders and endermen) to dismount from boats when on land. Add more entities to the 'supplementaries:can_dismount_boats' tag to allow them to dismount as well
 		smart_boat_dismount = true
 		#Allows traders to open doors (because they couldn't apparently)

@@ -1,0 +1,177 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "cluttered:flower_carpet_poplar",
+      "required": false
+    },
+    {
+      "id": "cluttered:flowering_poplar_bookshelf",
+      "required": false
+    },
+    {
+      "id": "cluttered:flowering_poplar_button",
+      "required": false
+    },
+    {
+      "id": "cluttered:flowering_poplar_door",
+      "required": false
+    },
+    {
+      "id": "cluttered:flowering_poplar_fence",
+      "required": false
+    },
+    {
+      "id": "cluttered:flowering_poplar_fence_gate",
+      "required": false
+    },
+    {
+      "id": "cluttered:flowering_poplar_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "cluttered:flowering_poplar_leaves",
+      "required": false
+    },
+    {
+      "id": "cluttered:flowering_poplar_log",
+      "required": false
+    },
+    {
+      "id": "cluttered:flowering_poplar_planks",
+      "required": false
+    },
+    {
+      "id": "cluttered:flowering_poplar_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "cluttered:flowering_poplar_sign",
+      "required": false
+    },
+    {
+      "id": "cluttered:flowering_poplar_slab",
+      "required": false
+    },
+    {
+      "id": "cluttered:flowering_poplar_stairs",
+      "required": false
+    },
+    {
+      "id": "cluttered:flowering_poplar_trapdoor",
+      "required": false
+    },
+    {
+      "id": "cluttered:flowering_poplar_wainscoting",
+      "required": false
+    },
+    {
+      "id": "cluttered:flowering_poplar_window",
+      "required": false
+    },
+    {
+      "id": "cluttered:flowering_poplar_window_pane",
+      "required": false
+    },
+    {
+      "id": "cluttered:flowering_poplar_wood",
+      "required": false
+    },
+    {
+      "id": "cluttered:poplar_bookshelf",
+      "required": false
+    },
+    {
+      "id": "cluttered:poplar_button",
+      "required": false
+    },
+    {
+      "id": "cluttered:poplar_door",
+      "required": false
+    },
+    {
+      "id": "cluttered:poplar_fence",
+      "required": false
+    },
+    {
+      "id": "cluttered:poplar_fence_gate",
+      "required": false
+    },
+    {
+      "id": "cluttered:poplar_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "cluttered:poplar_leaves",
+      "required": false
+    },
+    {
+      "id": "cluttered:poplar_log",
+      "required": false
+    },
+    {
+      "id": "cluttered:poplar_planks",
+      "required": false
+    },
+    {
+      "id": "cluttered:poplar_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "cluttered:poplar_sapling",
+      "required": false
+    },
+    {
+      "id": "cluttered:poplar_sign",
+      "required": false
+    },
+    {
+      "id": "cluttered:poplar_slab",
+      "required": false
+    },
+    {
+      "id": "cluttered:poplar_stairs",
+      "required": false
+    },
+    {
+      "id": "cluttered:poplar_trapdoor",
+      "required": false
+    },
+    {
+      "id": "cluttered:poplar_wainscoting",
+      "required": false
+    },
+    {
+      "id": "cluttered:poplar_window",
+      "required": false
+    },
+    {
+      "id": "cluttered:poplar_window_pane",
+      "required": false
+    },
+    {
+      "id": "cluttered:poplar_wood",
+      "required": false
+    },
+    {
+      "id": "cluttered:potted_poplar_sapling",
+      "required": false
+    },
+    {
+      "id": "cluttered:stripped_flowering_poplar_log",
+      "required": false
+    },
+    {
+      "id": "cluttered:stripped_flowering_poplar_wood",
+      "required": false
+    },
+    {
+      "id": "cluttered:stripped_poplar_log",
+      "required": false
+    },
+    {
+      "id": "cluttered:stripped_poplar_wood",
+      "required": false
+    }
+  ]
+}

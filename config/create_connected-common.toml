@@ -1,8 +1,66 @@
+#.
+#Migrate copycats to Create: Copycats+ when they receive a block update
+migrateCopycatsOnBlockUpdate = false
+#.
+#Migrate copycats to Create: Copycats+ when their block entities are initialized
+migrateCopycatsOnInitialize = false
+
+#.
+#Enable/disable features. Values on server override clients
 [features]
 	empty_fan_catalyst = false
 	inventory_access_port = false
 	inventory_bridge = false
 	kinetic_battery = false
+	#.
 	kinetic_bridge = false
 	cross_connector = false
 	brass_gearbox = false
+	fluid_vessel = true
+	item_silo = true
+	inverted_clutch = true
+	parallel_gearbox = true
+	redstone_link_wildcard = true
+	centrifugal_clutch = true
+	copycat_slab = true
+	brass_chute = true
+	overstress_clutch = true
+	brake = true
+	copycat_block = true
+	copycat_fence_gate = true
+	copycat_stairs = true
+	large_crank_wheel = true
+	copycat_vertical_step = true
+	copycat_wall = true
+	six_way_gearbox = true
+	crank_wheel = true
+	encased_chain_cogwheel = true
+	sequenced_pulse_generator = true
+	freewheel_clutch = true
+	dashboard = true
+	shear_pin = true
+	inverted_gearshift = true
+	linked_transmitter = true
+	copycat_beam = true
+	copycat_board = true
+	copycat_fence = true
+
+#.
+#Enable/disable categories of features. Disabling a category hides all related features. Values on server override clients
+[feature_categories]
+	#.
+	#.
+	#All kinetic components, such as gearboxes and crank wheels
+	kinetic = true
+	#.
+	#All redstone components, such as linked transmitter and sequenced pulse generator
+	redstone = true
+	#.
+	#All components related to item and fluid transport
+	logistics = true
+	#.
+	#All copycats (Install Create: Copycats+ to upgrade)
+	copycats = false
+	#.
+	#All building palette blocks
+	palette = true

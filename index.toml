@@ -6,7 +6,7 @@ hash = "001af14b87e8ac35e7524cc243a43ad01596d1b12b3065add54701000be27527"
 
 [[files]]
 file = "config/copycats-common.toml"
-hash = "d2fced07a5ab6a892c7a2016df3e1bd9e60787c6c730824548cf1e59f569408e"
+hash = "9156cfac16a32cd2a11adeb394baf6f983488f68dbf3b2b2bfd3add9f866f5d0"
 
 [[files]]
 file = "config/create-server.toml"
@@ -14,7 +14,7 @@ hash = "dc35b0fa66f68a95bec09f5caefb761c0a64a6c715b283cdd6968d7dd3dd509a"
 
 [[files]]
 file = "config/create_connected-common.toml"
-hash = "9b2ec7373a542e3cc4f6e7f528476d9402f6267b34723308ddb9c3d9c7a68f55"
+hash = "81f412a9e5c50d3a1a5c47301a5b5925b23e66ff3d1861bacf80a577df959cdb"
 
 [[files]]
 file = "config/ftbbackups3-server.snbt"
@@ -26,11 +26,11 @@ hash = "c7b2295a08329a303db99c5fbceda057ca42589a5ecf97de26d9959c0c49caba"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "7a10105aef10c163448efd4a1970e2ba1b492d2274a4ddda5b1118b8ca4444ba"
+hash = "be30ce232cb09654cbe492f9ca0c879316fc0052f0eb2a71dcef4d5805939309"
 
 [[files]]
 file = "config/supplementaries-common.toml"
-hash = "ba7b3b6cb1fde6243150220c1634831dcc903ffe1af9c09b37c5b347300bf2f1"
+hash = "dd348087b9775e20a87a878a15752ec51dd239d35d1abb57313635848cb37152"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -177,10 +177,6 @@ file = "mods/elytra-slot.pw.toml"
 hash = "9e2b351f3cabb1252259f5383e6f2fec3e3d90534dbecddef4ed183eba42f35a"
 metafile = true
 
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
-metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
