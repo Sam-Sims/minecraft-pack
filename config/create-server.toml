@@ -68,7 +68,7 @@
 	#Maximum length in blocks of mechanical belts.
 	# Default: 20
 	# Range: > 5
-	maxBeltLength = 20
+	maxBeltLength = 30
 	#.
 	#Maximum length in blocks of chain conveyor connections.
 	# Default: 32
@@ -484,12 +484,12 @@
 		#Amount of game ticks between shots of the cannon. Higher => Slower
 		# Default: 10
 		# Range: > 1
-		schematicannonDelay = 3
+		schematicannonDelay = 8
 		#.
 		#Amount of blocks a Schematicannon can print per Gunpowder item provided.
 		# Default: 400
 		# Range: > 1
-		schematicannonShotsPerGunpowder = 400
+		schematicannonShotsPerGunpowder = 8
 
 #.
 #Equipment and gadgets added by Create

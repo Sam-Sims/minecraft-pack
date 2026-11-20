@@ -1,8 +1,8 @@
 name = "FTB Library"
-filename = "ftb-library-neoforge-2101.1.39.jar"
+filename = "ftb-library-neoforge-2101.1.40.jar"
 side = "both"
 
 [download]
-url = "https://maven.ftb.dev/releases/dev/ftb/mods/ftb-library-neoforge/2101.1.39/ftb-library-neoforge-2101.1.39.jar"
+url = "https://maven.ftb.dev/releases/dev/ftb/mods/ftb-library-neoforge/2101.1.40/ftb-library-neoforge-2101.1.40.jar"
 hash-format = "sha256"
-hash = "ca64bd1b5f335406900f74eeafacea5a3580a3933d61de6b6600a64eb12a9a95"
+hash = "d97d8ae91b5049406f1bac5634ecbceafe7ff0f00e850047792deef4aec05d50"
