@@ -308,6 +308,11 @@ hash = "5dc059422613b5645cb00e32d3bfd53de428c4939113d11ce2c844cb54165da6"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "1b6992bbce7bb400e5cc57769879c86271db2933a578afd9ea3d9f177a35a920"
+metafile = true
+
+[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
 metafile = true
